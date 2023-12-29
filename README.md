@@ -2,21 +2,6 @@
 
 `MANAGING COMPLAINTS, MASTERING SATISFACTION!`
 
-<div class="album">
-  <div class="responsive-container-block bg">
-    <div class="responsive-container-block img-cont">
-      <img class="img" src="./public//img1.jpeg">
-      <img class="img" src="./public//img2.jpeg">
-      <img class="img img-last" src="./public//img3.jpeg">
-    </div>
-    <div class="responsive-container-block img-cont">
-      <img class="img img-big" src="./public/img4.jpeg">
-    </div>
-    <div class="responsive-container-block img-cont">
-      <img class="img" src="./public//img5.png">
-  </div>
-</div>
-
 For Users:
 
 - Student
